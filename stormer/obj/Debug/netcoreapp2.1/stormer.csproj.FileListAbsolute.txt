@@ -1,0 +1,11 @@
+c:\users\topher\source\repos\stormer\stormer\bin\Debug\netcoreapp2.1\stormer.deps.json
+c:\users\topher\source\repos\stormer\stormer\bin\Debug\netcoreapp2.1\stormer.runtimeconfig.json
+c:\users\topher\source\repos\stormer\stormer\bin\Debug\netcoreapp2.1\stormer.runtimeconfig.dev.json
+c:\users\topher\source\repos\stormer\stormer\bin\Debug\netcoreapp2.1\stormer.dll
+c:\users\topher\source\repos\stormer\stormer\bin\Debug\netcoreapp2.1\stormer.pdb
+c:\users\topher\source\repos\stormer\stormer\obj\Debug\netcoreapp2.1\stormer.csprojAssemblyReference.cache
+c:\users\topher\source\repos\stormer\stormer\obj\Debug\netcoreapp2.1\stormer.csproj.CoreCompileInputs.cache
+c:\users\topher\source\repos\stormer\stormer\obj\Debug\netcoreapp2.1\stormer.AssemblyInfoInputs.cache
+c:\users\topher\source\repos\stormer\stormer\obj\Debug\netcoreapp2.1\stormer.AssemblyInfo.cs
+c:\users\topher\source\repos\stormer\stormer\obj\Debug\netcoreapp2.1\stormer.dll
+c:\users\topher\source\repos\stormer\stormer\obj\Debug\netcoreapp2.1\stormer.pdb
